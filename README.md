@@ -3,7 +3,7 @@
 A React Native mobile banking application for secure money transfers with a clean, modern interface.
 
 ## Demo Video
-
+https://github.com/aasmiCodez/Payment-App/blob/main/assets/paymentpage.mp4
 ## What it does
 
 SecureBank allows users to send money domestically within India (free) or internationally (₹250 fee). The app includes form validation, transaction review, and receipt sharing.
